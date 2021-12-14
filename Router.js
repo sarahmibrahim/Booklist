@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router();
-const books = require('./bookController')
+const books = require('./BookController')
 
 router.put('/book/:id',books.update)
 router.delete('/book/:id',books.delete)
