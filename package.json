@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
+    "start": "node index.js"
+  },
+=======
 
     "start": "node index.js"},
 
   
+>>>>>>> 3140b3faa546ac03d74d714de7305bbc2bccec1c
   "author": "Sarah Ibrahim",
   "license": "ISC",
   "dependencies": {
